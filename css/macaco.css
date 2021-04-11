@@ -1,0 +1,60 @@
+*{
+    margin: 10;
+    padding: 10;
+    box-sizing: border-box;
+}
+
+.macaco{
+    size: 20vw;
+}
+
+body{
+    background-image: linear-gradient(to top, #f43b47 0%, #453a94 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+body{
+    font-family: "Open Sans", sans-serif;
+}
+
+header{
+    align-items: center;
+    padding: 0;
+    justify-content: center;
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.281);
+    width: 70%;
+    height: 30vw;
+    border-radius: 50px;
+}
+
+header img{
+    width: 25vw;
+}
+
+.sopa{
+    margin-left: 20vw;
+}
+
+.corazon1{
+    width: 16vw;
+}
+
+.corazon2{
+    width: 16vw;
+}
+
+.sabia{
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-right: 23.5vw;
+    color: blanchedalmond;
+    font-size: 1.7vw;
+    background-color: rgba(0, 0, 0, 0.281);
+    border-radius: 30px;
+}
+
