@@ -33,7 +33,5 @@ function heh4(e) {
 function fin5(e){
     document.getElementById("no5").classList.remove("No");
     document.getElementById("no5").classList.add("no5");
-    document.getElementById("No1").classList.add("No");
-    document.getElementById("No1").classList.remove("no1");
 }
 
